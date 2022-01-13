@@ -32,9 +32,9 @@ I have worked on a number of high profile projects including Omni Channel Custom
 
 ## Coaching and Raising Awareness of Tools John Lewis Partnership Use Internally and Externally
 As well as procuring and ensuring all developer tools, such as Gitlab, the Atlassian estate and Slack, have gone through security sign off and governance I am responsible for the rollout and education of the tools across the Technical Profession and wider business areas.
-I have spoken at several conferences and community events on our use of development tools, examples are:
- https://slack.com/intl/en-gb/events/webinars/how-hsbc-john-lewis-and-financial-times-are-facing-a-brave-new-world-of-work and 
- https://www.adaptavist.com/blog/how-john-lewis-partnership-transformed-collaboration-with-adaptavist-operate
+I have spoken at several conferences and community events on our use of development tools,recent examples are:
+<a href="https://slack.com/intl/en-gb/events/webinars/how-hsbc-john-lewis-and-financial-times-are-facing-a-brave-new-world-of-work">Speaking at a Slack event</a>
+and <a href="https://www.adaptavist.com/blog/how-john-lewis-partnership-transformed-collaboration-with-adaptavist-operate">Contributing to an Atlassian Platinum Partner blog</a>
 
 ## Vendor Management
 In my recent role as Methods and Tools Technical Lead I have built good working relationships with vendors of the tools that we use for delivery within the Technical Profession as well as with many areas of the John Lewis Partnership, from business and operations teams, to Engagement Managers and our third party suppliers.

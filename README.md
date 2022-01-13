@@ -24,19 +24,19 @@ Product Engineer
 
 ## Skills
 
-Web Development
+## Web Development
 Learning javascript and react.   Attending Makers Academy in 2022.
 
-Software Design and Development
+## Software Design and Development
 I have worked on a number of high profile projects including Omni Channel Customer Ordering (OCCO) was a large programme of changes to re-platform and align several customer ordering systems, enabling a more consistent experience for customers using our selling channels (shop, online, app, telephone). I was responsible for putting the hundreds of different mainframe changes live ensuring that all dependencies were considered.
 
-Coaching and Raising Awareness of Tools
+## Coaching and Raising Awareness of Tools John Lewis Partnership Use Internally and Externally
 As well as procuring and ensuring all developer tools, such as Gitlab, the Atlassian estate and Slack, have gone through security sign off and governance I am responsible for the rollout and education of the tools across the Technical Profession and wider business areas.
 I have spoken at several conferences and community events on our use of development tools, examples are:
  https://slack.com/intl/en-gb/events/webinars/how-hsbc-john-lewis-and-financial-times-are-facing-a-brave-new-world-of-work and 
  https://www.adaptavist.com/blog/how-john-lewis-partnership-transformed-collaboration-with-adaptavist-operate
 
-Vendor Management
+## Vendor Management
 In my recent role as Methods and Tools Technical Lead I have built good working relationships with vendors of the tools that we use for delivery within the Technical Profession as well as with many areas of the John Lewis Partnership, from business and operations teams, to Engagement Managers and our third party suppliers.
 
 

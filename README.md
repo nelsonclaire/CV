@@ -1,77 +1,63 @@
-## Your Name
+## Claire Nelson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a Product Engineer with over twenty five years experience working for the John Lewis Partnership in IT. Over that time I have been responsible for leading the successful delivery of many projects and ensuring that my colleagues and have the right tools to work productively. In late 2020 I took on the additional role of People Manager.
+I have applied to Makers to concentrate my efforts on rebuilding my Software Development skills, focussing on web development.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                                          | Tech/tools        |
+| ---------------------------- | -------------------------------------------------------------------- | ----------------- |
+| **Student Directory**        | A command line app to manage the list of students at Makers Academy. | CLI, Ruby         |
+
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**John Lewis Partnership** August 1996 - present
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Product Engineer
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Responsible for the procurement and roll out of tools such as Gitlab, Jira and Slack to the Technical Profession and Head Offices.
+- Tech Lead on mainframe development projects
+- Overnight support on key distribution systems
+- People Manager
 
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+Web Development
+Learning javascript and react.   Attending Makers Academy in 2022.
 
--STAR
--What was the situation/task? (ST)
+Software Design and Development
+I have worked on a number of high profile projects including Omni Channel Customer Ordering (OCCO) was a large programme of changes to re-platform and align several customer ordering systems, enabling a more consistent experience for customers using our selling channels (shop, online, app, telephone). I was responsible for putting the hundreds of different mainframe changes live ensuring that all dependencies were considered.
 
--How was the skill used?
+Coaching and Raising Awareness of Tools
+As well as procuring and ensuring all developer tools, such as Gitlab, the Atlassian estate and Slack, have gone through security sign off and governance I am responsible for the rollout and education of the tools across the Technical Profession and wider business areas.
+I have spoken at several conferences and community events on our use of development tools, examples are:
+ https://slack.com/intl/en-gb/events/webinars/how-hsbc-john-lewis-and-financial-times-are-facing-a-brave-new-world-of-work and 
+ https://www.adaptavist.com/blog/how-john-lewis-partnership-transformed-collaboration-with-adaptavist-operate
 
--What did you do? (action)
+Vendor Management
+In my recent role as Methods and Tools Technical Lead I have built good working relationships with vendors of the tools that we use for delivery within the Technical Profession as well as with many areas of the John Lewis Partnership, from business and operations teams, to Engagement Managers and our third party suppliers.
 
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2022 - April 2022)
+- Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
+- TDD
+- Ruby
+- RSpec
 
-#### Your University / College (start_date to end_date)
+#### University of Exeter (September 1993 - July 1996)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Hons Mathematics and Computer Science
+- 2:1
 
-#### Any other qualifications
+#### Herts and Essex High School (September 1986 - July 1993)
 
-That in some arguable way make you a better software developer or well-rounded person
+- A Levels : Mathematics, Physics, English and History
+- GCSEs    : 10 A grades including Mathematics, French, German, English Language, English Literature, double Sciences, History and Geography
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Travelling, reading, escape rooms, jigsaw puzzles.

@@ -16,10 +16,14 @@ I am a Product Engineer with over twenty five years experience working for the J
 ## Work Experience
 
 **Makers Academy** December 2021 - April 2022
+
 Intensive software engineering Bootcamp preparing me to return to John Lewis with a Full-Stack development skillset.
 
+
 By attending Makers I have gained confidence in multiple languages and frameworks used in web development.
+
 I learnt object-orientated design principles and how to utilise Test Driven Development.
+
 Makers encourages problem solving and learning independently. Group projects and pair programming are used to show that communication and teamwork will achieve positive results.
 
 **John Lewis Partnership** August 1996 - present
@@ -71,4 +75,5 @@ In my recent role as Methods and Tools Technical Lead I have built good working 
 
 ## Hobbies
 
-Travelling, reading, escape rooms, jigsaw puzzles. I am involved in the administration of our local Scouting Group and I am on the PTFA committee for my son's secondary school.
+Travelling, reading, escape rooms, jigsaw puzzles. 
+I am involved in the administration of our local Scouting Group and I am on the PTFA committee for my son's secondary school.

@@ -1,16 +1,26 @@
 ## Claire Nelson
 
-I am a Product Engineer with over twenty five years experience working for the John Lewis Partnership in IT. Over that time I have been responsible for leading the successful delivery of many projects and ensuring that my colleagues and have the right tools to work productively. In late 2020 I took on the additional role of People Manager.
-I have applied to Makers to concentrate my efforts on rebuilding my Software Development skills, focussing on web development.
+I am a Product Engineer with over twenty five years experience working for the John Lewis Partnership in IT. Over that time I have been responsible for leading the successful delivery of many projects and ensuring that my colleagues have the right tools to work productively. I have been a People Manager for many years too.
 
-## Projects
 
-| Name                         | Description                                                          | Tech/tools        |
+## Main Projects
+
+| Name                         | Description                                                          | Tech/Tools        |
 | ---------------------------- | -------------------------------------------------------------------- | ----------------- |
-| **Student Directory**        | A command line app to manage the list of students at Makers Academy. | CLI, Ruby         |
+| [**Eat The Week**](https://github.com/nyahehnagi/eat_the_week)| An app designed to allow a user to upload recipes and search for new ones, create a weekly food planner and order the ingredients.  This was the final group project and we decided to learn React.| Node.js, MongoDB, Express, React, Bootstrap, CSS, Heroku, Jest, Cypress
+| [**Acebook - Jest In Time**](https://github.com/nelsonclaire/acebook-jest-in-time) | A Facebook style social network using a Node.js backend for the first time. | Node.js, MongoDB, Express, Handlebars, Heroku, Jest, Cypress |
+| [**Makersbnb**](https://github.com/nelsonclaire/Makersbnb) | The first group project at Makers to implement an AirBnB with an MVC design. | Ruby, Sinatra, PostgreSQL, CSS, RSpec, Capybara |
+
 
 
 ## Work Experience
+
+**Makers Academy** December 2021 - April 2022
+Intensive software engineering Bootcamp preparing me to return to John Lewis with a Full-Stack development skillset.
+
+By attending Makers I have gained confidence in multiple languages and frameworks used in web development.
+I learnt object-orientated design principles and how to utilise Test Driven Development.
+Makers encourages problem solving and learning independently. Group projects and pair programming are used to show that communication and teamwork will achieve positive results.
 
 **John Lewis Partnership** August 1996 - present
 
@@ -25,7 +35,7 @@ Product Engineer
 ## Skills
 
 ## Web Development
-Learning javascript and react.   Attending Makers Academy in 2022.
+Javascript and React.  
 
 ## Software Design and Development
 I have worked on a number of high profile projects including Omni Channel Customer Ordering (OCCO) was a large programme of changes to re-platform and align several customer ordering systems, enabling a more consistent experience for customers using our selling channels (shop, online, app, telephone). I was responsible for putting the hundreds of different mainframe changes live ensuring that all dependencies were considered.
@@ -42,11 +52,12 @@ In my recent role as Methods and Tools Technical Lead I have built good working 
 
 ## Education
 
-#### Makers Academy (January 2022 - April 2022)
+#### Makers Academy (December 2021 - April 2022)
 - Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
-- TDD
-- Ruby
-- RSpec
+- Object Oriented and Test Driven Development
+- DATABASES: MongoDB, PostgreSQL
+- LANGUAGES & FRAMEWORKS: Express, JavaScript, Node.js, React, Ruby, Sinatra
+- TESTING: Capybara, Cypress, Jest, RSpec
 
 #### University of Exeter (September 1993 - July 1996)
 
@@ -60,4 +71,4 @@ In my recent role as Methods and Tools Technical Lead I have built good working 
 
 ## Hobbies
 
-Travelling, reading, escape rooms, jigsaw puzzles.
+Travelling, reading, escape rooms, jigsaw puzzles. I am involved in the administration of our local Scouting Group and I am on the PTFA committee for my son's secondary school.
